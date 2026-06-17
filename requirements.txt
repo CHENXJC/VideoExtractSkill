@@ -1,0 +1,11 @@
+﻿pillow
+pillow-heif
+python-docx
+pywin32
+pytesseract
+streamlit
+pandas
+opencv-python
+imageio-ffmpeg
+faster-whisper
+openai

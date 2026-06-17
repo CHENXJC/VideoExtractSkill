@@ -1,0 +1,1 @@
+﻿# Python\n__pycache__/\n*.pyc\n*.pyo\n*.pyd\n.venv/\nvenv/\nenv/\n\n# Local media and generated outputs\ninput_media/\noutput/\nlogs/\n\n# Secrets\n.env\n*.key\nsecrets.json\n\n# OS\n.DS_Store\nThumbs.db\n\n# Large model/cache files\nmodels/\n.cache/\n\n# Private local notes\nPRIVATE_*\nprivate_*\nprivate_backups/\ndemo_assets/sample_reports/demo_run_*/\n

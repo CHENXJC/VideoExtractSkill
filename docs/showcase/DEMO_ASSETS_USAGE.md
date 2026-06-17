@@ -1,0 +1,1 @@
+# Demo Assets Usage\n\nRecommended usage:\n\n1. Copy demo files from demo_assets/input_media_demo into input_media.\n2. Run the local full workflow.\n3. Take screenshots using only demo content.\n4. Use screenshots in GitHub README or portfolio pages.\n\nDo not publish private media, generated private reports, or real user data.

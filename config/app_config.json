@@ -1,0 +1,14 @@
+﻿{
+  "app_name": "Batch Media Insight Extractor",
+  "project_code": "VIDEO-EXTRACT",
+  "version": "0.16-local-software-folder",
+  "default_language": "zh",
+  "default_theme": "Ocean Blue",
+  "input_folder": "input_media",
+  "output_folder": "output",
+  "reports_folder": "output/reports",
+  "batch_reports_folder": "output/reports/batches",
+  "local_full_workflow_script": "run_step_015_local_full_workflow.py",
+  "openai_api_enabled": false,
+  "note": "Current version prioritizes local workflow. OpenAI API enhanced summary is reserved for future media/content account stage."
+}
