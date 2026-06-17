@@ -95,9 +95,9 @@ This project demonstrates practical AI workflow design, local automation, OCR in
 
 ## Status
 
-Checkpoint: VIDEO-EXTRACT-026
+Checkpoint: VIDEO-EXTRACT-045
 
-Current stage: working local software prototype plus public showcase preparation.
+Current stage: online public GitHub showcase release.
 
 ---
 
